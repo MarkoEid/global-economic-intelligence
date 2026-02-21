@@ -1,5 +1,8 @@
 # 🌍 Global World Economics Analysis
 
+<img width="1024" height="1024" alt="picture" src="https://github.com/user-attachments/assets/dfc72509-9116-4605-8697-2c4493a09f8c" />
+
+
 ## 📖 Project Overview
 This project provides a macro-economic evaluation of global markets, focusing on key indicators such as **GDP Growth, Inflation, Unemployment, and Debt**. A standout feature of this analysis is the integration of **Web Scraping** to resolve data quality issues, ensuring a complete dataset for global comparison.
 
